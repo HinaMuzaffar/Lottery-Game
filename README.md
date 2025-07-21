@@ -1,5 +1,3 @@
-=======
-
 # Lottery-Game
 
 A small Lottery game built with React where you can:
